@@ -1,5 +1,8 @@
 _repo: How-They-Succeeded-Life-Stories-of-Successful-Men-Told-by-Themselves_64059
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64059-h/images/cover.jpg
 creator:
   author:
     agent_name: Marden, Orison Swett
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1515
     wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64059#How-They-Succeeded-Life-Stories-of-Successful-Men-Told-by-Themselves
 gutenberg_issued: '2020-12-16'
 gutenberg_type: Text
 identifiers:
